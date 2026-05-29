@@ -1,0 +1,10 @@
+Django>=4.2
+djangorestframework
+mangum
+pymysql
+django-cors-headers
+PyJWT
+requests
+boto3
+six
+python-dateutil
